@@ -1,0 +1,27 @@
+body{
+  margin:5;
+}
+
+header{
+  height: 400px;
+ background:url(IMAGESSS/bg_ahma.jpg)
+}
+header nav {
+background:rgba(211,21,21,0.9);
+  opacity:20;
+  height:130px;
+ 
+
+header nav ul{}
+  margin:0;
+padding: 0;
+list-style:none;
+
+header nav ul li a{
+float: left;
+line-height: :70px;
+  
+}
+
+   background:url(IMAGESSS/bg_laptop.jpg)
+  
