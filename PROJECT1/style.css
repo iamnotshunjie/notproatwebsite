@@ -1,0 +1,12 @@
+.jumbotron {
+  background: url(IMAGESSS/bg_ahma.jpg);
+  height: 50vp;
+  background-size: cover;
+  text-align: center;
+  text-align: center;
+  color: ghostwhite;
+}
+
+.jumbotron.container {
+  padding-top: 100px
+}
